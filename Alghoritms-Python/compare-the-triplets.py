@@ -22,13 +22,13 @@ def compareTriplets(a, b):
     
     x = list(map(int,a))
     y = list(map(int,b))
-    z = len(x) if len(x) > len(y) else len(y)
-    res1, res2 = 0, 0
-    for i in range(z):
-        if x[i] > y[i]: res1 += 1
-        if x[i] < y[i]: res2 += 1
-        
-    return res1, res2
+    
+    
+    res_alc = sum([(1 if x[i] > y[i] else 0) for i in range(len(x))])
+    res_bob = sum([(1 if x[i] < y[i] else 0) for i in range(len(x))])
+    
+    
+    return res_alc, res_bob
     
 
 if __name__ == '__main__':
