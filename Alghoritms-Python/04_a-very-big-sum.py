@@ -17,7 +17,7 @@ import sys
 #
 
 def aVeryBigSum(ar):
-    converted = list(map(str,ar))
+    converted = list(map(str, ar))
     sum = 0
     for i in range(len(converted)):
         sum += int(converted[i])
