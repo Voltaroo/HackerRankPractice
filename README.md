@@ -24,3 +24,34 @@ Repository for the Hackerrank Challenges practice.
 | 015 | [Breaking the Records](https://www.hackerrank.com/challenges/breaking-best-and-worst-records/problem) | [Python](https://github.com/Voltaroo/Hackerrank/blob/master/Alghoritms/02.%20Implementation/015_breaking-the-records.py) | Easy | 10.00 | Alghoritms - Implementation |
 | 016 | [Subarray Division (The Birthday Bar)](https://www.hackerrank.com/challenges/the-birthday-bar/problem) | [Python](https://github.com/Voltaroo/Hackerrank/blob/master/Alghoritms/02.%20Implementation/016_subarray-division.py) | Easy | 10.00 | Alghoritms - Implementation |
 | 017 | [Divisible Sum Pairs](https://www.hackerrank.com/challenges/divisible-sum-pairs/problem) | [Python](https://github.com/Voltaroo/Hackerrank/blob/master/Alghoritms/02.%20Implementation/017_divisible-sum-pairs.py) | Easy | 10.00 | Alghoritms - Implementation |
+
+
+## Java
+| No. | Problem | Difficulty | Solved | Points |
+|-----|---------|------------|--------|--------|
+| 001 | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/001_welcome-to-java.java) | 3.00 |
+| 001 | []() | Easy | [❌]() | 0.00 |
+
+
+
+## Comments
+<!-- Special design for IDE I use -->
+<style>
+    * {
+        color: #fff !important;
+    }
+    a {
+        color: #ad0 !important;
+    }
+    body {
+        background: #000 !important;
+    }
+    /* table:nth-of-type(1) * {
+        border: none !important;
+        text-align: left;
+        min-height: 25px !important;
+    } */
+    table td:not(:nth-of-type(2)) {
+        text-align: center !important;
+    }
+</style>
