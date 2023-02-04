@@ -30,7 +30,14 @@ Repository for the Hackerrank Challenges practice.
 | No. | Problem | Difficulty | Solved | Points |
 |-----|---------|------------|--------|--------|
 | 001 | [Welcome to Java!](https://www.hackerrank.com/challenges/welcome-to-java/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/001_welcome-to-java.java) | 3.00 |
-| 001 | []() | Easy | [❌]() | 0.00 |
+| 002 | [Java Stdin and Stdout I](https://www.hackerrank.com/challenges/java-stdin-and-stdout-1/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/002_stdin-and-stdout-01.java) | 5.00 |
+| 003 | [Java If-Else](https://www.hackerrank.com/challenges/java-if-else/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/003_if-else.java) | 10.00 |
+| 004 | [Java Stdin and Stdout II](https://www.hackerrank.com/challenges/java-stdin-stdout/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/004_stdin-and-stdout-02.java) | 10.00 |
+| 005 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/005_java-loops-01.java) | 10.00 |
+| 006 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/006_java-loops-02.java) | 10.00 |
+| 007 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/007_java-datatypes.java) | 10.00 |
+| 008 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | Easy | [❌]() | 0.00 |
+<!-- | 001 | []() | Easy | [❌]() | 0.00 | -->
 
 
 
