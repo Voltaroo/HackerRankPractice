@@ -36,7 +36,11 @@ Repository for the Hackerrank Challenges practice.
 | 005 | [Java Loops I](https://www.hackerrank.com/challenges/java-loops-i/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/005_java-loops-01.java) | 10.00 |
 | 006 | [Java Loops II](https://www.hackerrank.com/challenges/java-loops/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/006_java-loops-02.java) | 10.00 |
 | 007 | [Java Datatypes](https://www.hackerrank.com/challenges/java-datatypes/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/007_java-datatypes.java) | 10.00 |
-| 008 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | Easy | [❌]() | 0.00 |
+| 008 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/008_java-end-of-file.java) | 10.00 |
+| 009 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/009_java-static-initializer-block.java) | 10.00 |
+| 010 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/010_java-int-to-string.java) | 10.00 |
+| 011 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | Easy | [❌]() | 0.00 |
+| 012 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-fomatter/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/012_java-currency-formatter.java) | 10.00 |
 <!-- | 001 | []() | Easy | [❌]() | 0.00 | -->
 
 
