@@ -39,10 +39,15 @@ Repository for the Hackerrank Challenges practice.
 | 008 | [Java End-of-file](https://www.hackerrank.com/challenges/java-end-of-file/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/008_java-end-of-file.java) | 10.00 |
 | 009 | [Java Static Initializer Block](https://www.hackerrank.com/challenges/java-static-initializer-block/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/009_java-static-initializer-block.java) | 10.00 |
 | 010 | [Java Int to String](https://www.hackerrank.com/challenges/java-int-to-string/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/010_java-int-to-string.java) | 10.00 |
-| 011 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | Easy | [❌]() | 0.00 |
-| 012 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-fomatter/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/012_java-currency-formatter.java) | 10.00 |
+| 011 | [Java Date and Time](https://www.hackerrank.com/challenges/java-date-and-time/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/010_java-date-and-time.java) | 15.00 |
+| 012 | [Java Currency Formatter](https://www.hackerrank.com/challenges/java-currency-fomatter/problem) | Easy | [✔️](https://github.com/Voltaroo/Hackerrank/blob/master/Java/012_java-currency-formatter.java) | 15.00 |
 <!-- | 001 | []() | Easy | [❌]() | 0.00 | -->
 
+
+## 10 Days of Javascript
+| No. | Problem | Difficulty | Solved | Points |
+|-----|---------|------------|--------|--------|
+| 001 | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | Easy | [❌]() | 10.00 |
 
 
 ## Comments
