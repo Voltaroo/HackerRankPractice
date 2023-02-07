@@ -47,7 +47,9 @@ Repository for the Hackerrank Challenges practice.
 ## 10 Days of Javascript
 | No. | Problem | Difficulty | Solved | Points |
 |-----|---------|------------|--------|--------|
-| 001 | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | Easy | [❌]() | 10.00 |
+| 001 | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day-00_hello-world.js) | 10.00 |
+| 002 | [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day-00_data-types.js) | 10.00 |
+| 003 | [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day-01_arithmetic-operators.js) | 10.00 |
 
 
 ## Comments
