@@ -47,9 +47,17 @@ Repository for the Hackerrank Challenges practice.
 ## 10 Days of Javascript
 | No. | Problem | Difficulty | Solved | Points |
 |-----|---------|------------|--------|--------|
-| 001 | [Day 0: Hello, World!](https://www.hackerrank.com/challenges/js10-hello-world/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day-00_hello-world.js) | 10.00 |
-| 002 | [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day-00_data-types.js) | 10.00 |
-| 003 | [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day-01_arithmetic-operators.js) | 10.00 |
+| 001 | [Day 0: Hello, World!](httpys://www.hackerrank.com/challenges/js10-hello-world/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day00_hello-world.js) | 10.00 |
+| 002 | [Day 0: Data Types](https://www.hackerrank.com/challenges/js10-data-types/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day00_data-types.js) | 10.00 |
+| 003 | [Day 1: Arithmetic Operators](https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day01_arithmetic-operators.js) | 10.00 |
+| 004 | [Day 1: Functions](https://www.hackerrank.com/challenges/js10-functions/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day01_functions.js) | 10.00 |
+| 005 | [Day 1: Let and Const](https://www.hackerrank.com/challenges/js10-let-and-const/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day01_let-and-const.js) | 10.00 |
+| 006 | [Day 2: Conditional Statemets: If-Else](https://www.hackerrank.com/challenges/js10-if-else/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day02_if-else.js) | 10.00 |
+| 007 | [Day 2: Conditional Statements: Switch](https://www.hackerrank.com/challenges/js10-switch/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day02_switch.js) | 10.00 |
+| 008 | [Day 2: Loops](https://www.hackerrank.com/challenges/js10-loops/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day02_loops.js) | 10.00 |
+| 009 | [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-loops/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day03_arrays.js) | 15.00 |
+| 010 | [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-loops/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day03_try-catch-and-finally.js) | 15.00 |
+| 011 | [Day 3: Throw](https://www.hackerrank.com/challenges/js10-loops/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day03_throw.js) | 15.00 |
 
 
 ## Comments

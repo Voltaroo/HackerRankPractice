@@ -1,4 +1,4 @@
-// Day 2: Loops
+// Day 3: Arrays
 'use strict';
 
 process.stdin.resume();
@@ -23,14 +23,15 @@ function readLine() {
     return inputString[currentLine++];
 }
 
-/*
- * Complete the vowelsAndConsonants function.
- * Print your output using 'console.log()'.
- */
-function vowelsAndConsonants(s) {
-    let vowels = ['a','e','i','o','u'];
-    let str1 = Array.from(s).filter((word) => vowels.includes(word)).join('\n');
-    let str2 = Array.from(s).filter((word) => !vowels.includes(word)).join('\n');
-    console.log(str1.concat('\n', str2));
+/**
+*   Return the second largest number in the array.
+*   @param {Number[]} nums - An array of numbers.
+*   @return {Number} The second largest number in the array.
+**/
+function getSecondLargest(nums) {
+    // Complete the function
+    let sortedArrayT = nums.sort((prev, curr) => curr - prev);
+    let secondArrMax = [... new Set(sortedArrayT)];
+    return secondArrMax[1];
 }
 
