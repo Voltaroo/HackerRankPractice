@@ -58,6 +58,13 @@ Repository for the Hackerrank Challenges practice.
 | 009 | [Day 3: Arrays](https://www.hackerrank.com/challenges/js10-loops/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day03_arrays.js) | 15.00 |
 | 010 | [Day 3: Try, Catch, and Finally](https://www.hackerrank.com/challenges/js10-loops/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day03_try-catch-and-finally.js) | 15.00 |
 | 011 | [Day 3: Throw](https://www.hackerrank.com/challenges/js10-loops/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day03_throw.js) | 15.00 |
+| 012 | [Day 4: Create a Rectangle Object](https://www.hackerrank.com/challenges/js10-count-objects/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day04_count-objects.js) | 15.00 |
+| 013 | [Day 4: Count Objects](https://www.hackerrank.com/challenges/js10-loops/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day04_throw.js) | 15.00 |
+| 014 | [Day 4: Classes](https://www.hackerrank.com/challenges/js10-class/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day04_class.js) | 15.00 |
+| 015 | [Day 5: Inheritance](https://www.hackerrank.com/challenges/js10-inheritance/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day05_class.js) | 15.00 |
+| 016 | [Day 5: Template Literals](https://www.hackerrank.com/challenges/js10-template-literals/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day05_class.js) | 15.00 |
+| 017 | [Day 5: Arrow Functions](https://www.hackerrank.com/challenges/js10-arrows/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day05_class.js) | 15.00 |
+
 
 
 ## Comments
