@@ -67,6 +67,8 @@ Repository for the Hackerrank Challenges practice.
 | 018 | [Day 6: Bitwise Operators](https://www.hackerrank.com/challenges/js10-bitwise/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day06_bitwise.js) | 15.00 |
 | 019 | [Day 6: JavaScript Dates](https://www.hackerrank.com/challenges/js10-date/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day06_date.js) | 15.00 |
 | 020 | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day07_regular-expressions-1.js) | 15.00 |
+| 021 | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day07_regular-expressions-2.js) | 15.00 |
+| 022 | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day07_regular-expressions-3.js) | 15.00 |
 
 
 
