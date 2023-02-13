@@ -69,6 +69,8 @@ Repository for the Hackerrank Challenges practice.
 | 020 | [Day 7: Regular Expressions I](https://www.hackerrank.com/challenges/js10-regexp-1/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day07_regular-expressions-1.js) | 15.00 |
 | 021 | [Day 7: Regular Expressions II](https://www.hackerrank.com/challenges/js10-regexp-2/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day07_regular-expressions-2.js) | 15.00 |
 | 022 | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day07_regular-expressions-3.js) | 15.00 |
+| 023 | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | ✔️ [HTML](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_create-a-button.html) [CSS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_create-a-button.css) [JS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_create-a-button.js) | 20.00 |
+| 024 | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | ✔️ [HTML](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_buttons-container.html) [CSS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_buttons-container.css) [JS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_buttons-container.js) | 25.00 |
 
 
 
@@ -91,5 +93,9 @@ Repository for the Hackerrank Challenges practice.
     } */
     table td:not(:nth-of-type(2)) {
         text-align: center !important;
+    }
+    table td:nth-of-type(4) {
+        color: #ad0 !important;
+        font-weight: bold;
     }
 </style>

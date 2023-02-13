@@ -1,0 +1,13 @@
+/* Day 8: Create a Button */
+
+#btns > .btn {
+    width: 30%;
+    height: 48px;
+    font-size: 24px;
+}
+#btns > button:nth-of-type(4n) {
+    display: inline-block;
+}
+#btns {
+    width: 75%;
+}

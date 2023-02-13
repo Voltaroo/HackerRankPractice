@@ -1,0 +1,6 @@
+/* Day 8: Create a Button */
+#btn {
+    width: 96px;
+    height: 48px;
+    font-size: 24px;
+}
