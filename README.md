@@ -4,6 +4,10 @@
 Repository for the Hackerrank Challenges practice.
 
 ## Acquired Badges
+|   |
+|---|
+| <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_10-days-of-javascript.png?token=GHSAT0AAAAAAB2IYE5ETIAMR2QMSRMRZZ7KY7MP3HQ"> |
+| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> Solved 15/02/2023| 
 
 
 ## Solved Challenges in Python
@@ -100,5 +104,8 @@ Repository for the Hackerrank Challenges practice.
     table td:nth-of-type(4) {
         color: #ad0 !important;
         font-weight: bold;
+    }
+    table:first-of-type th {
+        display: none !important;
     }
 </style>
