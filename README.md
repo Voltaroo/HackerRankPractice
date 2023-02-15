@@ -3,6 +3,8 @@
 # Hackerrank
 Repository for the Hackerrank Challenges practice.
 
+## Acquired Badges
+
 
 ## Solved Challenges in Python
 | No. | Problem | Solution | Difficulty | Points | Category |
@@ -71,6 +73,7 @@ Repository for the Hackerrank Challenges practice.
 | 022 | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day07_regular-expressions-3.js) | 15.00 |
 | 023 | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | ✔️ [HTML](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_create-a-button.html) [CSS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_create-a-button.css) [JS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_create-a-button.js) | 20.00 |
 | 024 | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | ✔️ [HTML](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_buttons-container.html) [CSS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_buttons-container.css) [JS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_buttons-container.js) | 25.00 |
+| 025 | [Day 8: Binary Calculator](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Medium | ✔️ [HTML](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day09_binary-calculator.html) [CSS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day09_binary-calculator.css) [JS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day09_binary-calculator.js) | 25.00 |
 
 
 
