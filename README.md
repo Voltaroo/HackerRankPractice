@@ -77,8 +77,21 @@ Repository for the Hackerrank Challenges practice.
 | 022 | [Day 7: Regular Expressions III](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day07_regular-expressions-3.js) | 15.00 |
 | 023 | [Day 8: Create a Button](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | ✔️ [HTML](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_create-a-button.html) [CSS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_create-a-button.css) [JS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_create-a-button.js) | 20.00 |
 | 024 | [Day 8: Buttons Container](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Easy | ✔️ [HTML](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_buttons-container.html) [CSS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_buttons-container.css) [JS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day08_buttons-container.js) | 25.00 |
-| 025 | [Day 8: Binary Calculator](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Medium | ✔️ [HTML](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day09_binary-calculator.html) [CSS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day09_binary-calculator.css) [JS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day09_binary-calculator.js) | 25.00 |
+| 025 | [Day 9: Binary Calculator](https://www.hackerrank.com/challenges/js10-regexp-3/problem) | Medium | ✔️ [HTML](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day09_binary-calculator.html) [CSS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day09_binary-calculator.css) [JS](https://github.com/Voltrifrodec/HackerRank/blob/master/10%20Days%20of%20Javascript/day09_binary-calculator.js) | 12.00 |
 
+
+## SQL
+| No. | Problem | Difficulty | Solved | Points | Category |
+|-----|---------|------------|--------|--------|----------|
+| 001 | [Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/001_revising-the-select-query-01.sql) | 10.00 | Basic Select |
+| 002 | [Revising the Select Query II](https://www.hackerrank.com/challenges/revising-the-select-query-2/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/002_revising-the-select-query-02.sql) | 10.00 | Basic Select |
+| 003 | [Select All](https://www.hackerrank.com/challenges/select-all-sql/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/003_select-all.sql) | 10.00 | Basic Select |
+| 004 | [Select By ID](https://www.hackerrank.com/challenges/select-by-id/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/004_select-by-id.sql) | 10.00 | Basic Select |
+| 005 | [Japanese Cities' Attributes](https://www.hackerrank.com/challenges/japanese-cities-attributes/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/005_japanese-cities-attribtes.sql) | 10.00 | Basic Select |
+| 006 | [Japanese Cities' Names](https://www.hackerrank.com/challenges/japanese-cities-name/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/006_japanese-cities-names.sql) | 10.00 | Basic Select |
+| 007 | [Weather Observation Station 1](https://www.hackerrank.com/challenges/weather-observation-station-1/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/007_weather-observation-station-1.sql) | 15.00 | Basic Select |
+| 008 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | Easy | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/008_weather-observation-station-3.sql) | 15.00 | Basic Select |
+<!-- | 001 | []() | Easy | [✔️]() | 10.00 | Basic Select | -->
 
 
 ## Comments
