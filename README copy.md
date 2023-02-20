@@ -100,11 +100,8 @@ Solved mostly in DB2.
 | 014 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem)     | Easy | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/014_weather-observation-station-9.sql) | 10.00 | Basic Select |
 | 015 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem)   | Easy | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/015_weather-observation-station-10.sql) | 10.00 | Basic Select |
 | 016 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem)   | Easy | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/016_weather-observation-station-11.sql) | 15.00 | Basic Select |
-| 017 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)   | Easy | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/017_weather-observation-station-11.sql) | 15.00 | Basic Select |
-| 018 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | Easy | SQL (Basic) | [❌]() | 15.00 | Basic Select |
-| 019 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | Easy | SQL (Basic) | [❌]() | 10.00 | Basic Select |
-| 020 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | Easy | SQL (Basic) | [❌]() | 10.00 | Basic Select |
-<!-- | 020 | []() | Easy | SQL (Basic) | [✔️]() | 10.00 | Basic Select | -->
+| 017 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem)   | Easy | SQL (Basic)           | [❌](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/) | 15.00 | Basic Select |
+<!-- | 001 | []() | Easy | [✔️]() | 10.00 | Basic Select | -->
 
 
 ## Comments
