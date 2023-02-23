@@ -6,8 +6,8 @@ Repository for the Hackerrank Challenges practice.
 ## Acquired Badges
 |   |
 |---|
-| <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_10-days-of-javascript.png?token=GHSAT0AAAAAAB2IYE5ETIAMR2QMSRMRZZ7KY7MP3HQ"> |
-| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> Solved 15/02/2023| 
+| <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_10-days-of-javascript.png?token=GHSAT0AAAAAAB2IYE5E6S7TIXGS3LWZLD2QY7XCLRQ"> |
+| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> *Solved 15/02/2023*| 
 
 
 ## Solved Challenges in Python
@@ -139,6 +139,9 @@ Solved mostly in DB2.
     }
     table:first-of-type th {
         display: none !important;
+    }
+    table:first-of-type td:first-of-type {
+        border: none;
     }
     table td:empty {
         background: #440 !important;
