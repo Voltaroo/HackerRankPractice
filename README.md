@@ -7,7 +7,7 @@ Repository for the Hackerrank Challenges practice.
 |   |
 |---|
 | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_10-days-of-javascript.png?token=GHSAT0AAAAAAB2IYE5E6S7TIXGS3LWZLD2QY7XCLRQ"> |
-| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> *Solved 15/02/2023*| 
+| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> *Solved 15/02/2023* | 
 
 
 ## Solved Challenges in Python
