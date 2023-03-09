@@ -4,10 +4,10 @@
 Repository for the Hackerrank Challenges practice.
 
 ## Acquired Badges
-|   |
-|---|
-| <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_10-days-of-javascript.png?token=GHSAT0AAAAAAB2IYE5E6S7TIXGS3LWZLD2QY7XCLRQ"> |
-| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> *Solved 15/02/2023* | 
+|   |   |   |   |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_10-days-of-javascript.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_problem-solving_bronze-2.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_java_silver-3.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_sql_bronze-2.png"> |
+| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> *Solved 15/02/2023* |  [**Problem Solving - Silver II**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) | [**Java - Silver III**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) | [**SQL - Bronze II**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) |
 
 
 ## Solved Challenges in Python
@@ -104,16 +104,27 @@ Solved mostly in DB2.
 | 018 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem)                                |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/018_higher-than-75-marks.sql)                    | 15.00 | Basic Select |
 | 019 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem)                                       |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/019_employee-names.sql)                          | 10.00 | Basic Select |
 | 020 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem)                                  |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/020_employee-salaries.sql)                       | 10.00 | Basic Select |
-|| 
-| 021 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle)                                         |  Easy  | SQL (Basic)           | [❌]() | 20.00 | Advanced Select |
-| 022 | [The PADS](https://www.hackerrank.com/challenges/the-pads)                                                              | Medium | SQL (Basic)           | [❌]() | 30.00 | Advanced Select |
-| 023 | [Occupations](https://www.hackerrank.com/challenges/occupations)                                                        | Medium | SQL (Basic)           | [❌]() | 30.00 | Advanced Select |
-| 024 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1)                                         | Medium | SQL (Basic)           | [❌]() | 30.00 | Advanced Select |
-| 025 | [New Companies](https://www.hackerrank.com/challenges/the-company)                                                      | Medium | SQL (Basic)           | [❌]() | 30.00 | Advanced Select |
+||
+| 021 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem)                                 |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/021_type-of-triangle.sql)                        | 20.00 | Advanced Select |
+| 022 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem)                                                      | Medium | SQL (Basic)           | [❌]() | 30.00 | Advanced Select |
+| 023 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem)                                                | Medium | SQL (Basic)           | [❌]() | 30.00 | Advanced Select |
+| 024 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem)                                 | Medium | SQL (Basic)           | [❌]() | 30.00 | Advanced Select |
+| 025 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem)                                              | Medium | SQL (Basic)           | [❌]() | 30.00 | Advanced Select |
+||
+| 026 | [Revising Aggregations - The Count Function](https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem)               |  Easy  | SQL (Basic)           | [❌]()           | 15.00 | Aggregation |
+| 027 | [Revising Aggregations - The Sum Function](https://www.hackerrank.com/challenges/revising-aggregations-sum/problem)                                |  Easy  | SQL (Basic)           | [❌]()           | 15.00 | Aggregation |
+| 028 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem)                       |  Easy  | SQL (Basic)           | [❌]()           | 15.00 | Aggregation |
+| 029 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem)                                                              |  Easy  | SQL (Basic)           | [❌]()           | 15.00 | Aggregation |
+| 030 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem)                                                                  |  Easy  | SQL (Basic)           | [❌]()           | 15.00 | Aggregation |
+| 031 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)                                        |  Easy  | SQL (Basic)           | [❌]()           | 15.00 | Aggregation |
+| 032 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)                                                                            |  Easy  | SQL (Basic)           | [❌]()           | 15.00 | Aggregation |
+| 033 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                                                  |  Easy  | SQL (Basic)           | [❌]()           | 15.00 | Aggregation |
+| 034 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)                                        |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/034_weather-observation-station-2.sql)           | 15.00 | Aggregation |
 <!-- | 020 | []() | Easy | SQL (Basic) | [❌]() | 10.00 | Basic Select | -->
 
 
 ## Comments
+### CSS code for IDE I use
 <!-- Special design for IDE I use -->
 <style>
     * {
@@ -137,11 +148,17 @@ Solved mostly in DB2.
         color: #ad0 !important;
         font-weight: bold;
     }
+    table:first-of-type {
+    }
     table:first-of-type th {
         display: none !important;
     }
-    table:first-of-type td:first-of-type {
+    table:first-of-type tr:first-of-type td {
         border: none;
+    }
+    table:first-of-type tr {
+        margin: 0 10px !important;
+        text-align: center;
     }
     table td:empty {
         background: #440 !important;
