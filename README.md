@@ -7,7 +7,7 @@ Repository for the Hackerrank Challenges practice.
 |   |   |   |   |
 |---|---|---|---|
 | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_10-days-of-javascript.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_problem-solving_bronze-2.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_java_silver-3.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_sql_silver-3.png"> |
-| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> *Solved 15/02/2023* |  [**Problem Solving - Silver II**](https://www.hackerrank.com/domains/algorithms) | [**Java - Silver III**](https://www.hackerrank.com/domains/java) | [**SQL - Silver III**](https://www.hackerrank.com/domains/sql) <br> *Acquired 09/03/2023* |
+| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> *Solved 15/02/2023* |  [**Problem Solving - Silver II**](https://www.hackerrank.com/domains/algorithms) <br> *Solved ??/??/????* | [**Java - Silver III**](https://www.hackerrank.com/domains/java) <br> *Solved ??/??/????* | [**SQL - Silver III**](https://www.hackerrank.com/domains/sql)  <br> *Acquired 09/03/2023* |
 
 
 ## Solved Challenges in Python
@@ -144,11 +144,15 @@ Solved mostly in DB2.
     table td:not(:nth-of-type(2)) {
         text-align: center !important;
     }
-    table td:nth-of-type(4) {
+    table td:nth-of-type(4) table:not(:first-of-type) {
         color: #ad0 !important;
         font-weight: bold;
     }
-    table:first-of-type {
+    table:first-of-type a * {
+        color: #ad0 !important;
+    }
+    table:first-of-type td {
+        min-width: 200px !important;
     }
     table:first-of-type th {
         display: none !important;
