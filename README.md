@@ -119,7 +119,8 @@ Solved mostly in DB2.
 | 031 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem)                                        |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/031_population-density-difference.sql)                           | 10.00 | Aggregation |
 | 032 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem)                                                                            |  Easy  | SQL (Basic)           | [❌]()           | 15.00 | Aggregation |
 | 033 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem)                                                                  |  Easy  | SQL (Basic)           | [❌]()           | 20.00 | Aggregation |
-| 034 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)                                        |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/034_weather-observation-station-2.sql)           | 15.00 | Aggregation |
+| 034 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem)                                        |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/034_weather-observation-station-2.sql)                           | 15.00 | Aggregation |
+| 034 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem)                                      |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/034_weather-observation-station-13.sql)                          | 10.00 | Aggregation |
 <!-- | 020 | []() | Easy | SQL (Basic) | [❌]() | 10.00 | Basic Select | -->
 
 
