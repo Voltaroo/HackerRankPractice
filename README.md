@@ -126,6 +126,7 @@ Solved mostly in DB2.
 | 038 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem)                                      |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/038_weather-observation-station-16.sql)                          | 10.00 | Aggregation |
 | 039 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem)                                      |  Easy  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/039_weather-observation-station-17.sql)                          | 15.00 | Aggregation |
 | 040 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem)                                      |  Medium  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/040_weather-observation-station-18.sql)                        | 25.00 | Aggregation |
+| 041 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem)                                      |  Medium  | SQL (Basic)           | [✔️](https://github.com/Voltrifrodec/HackerRank/blob/master/SQL/041_weather-observation-station-19.sql)                        | 25.00 | Aggregation |
 <!-- | 020 | []() | Easy | SQL (Basic) | [❌]() | 10.00 | Basic Select | -->
 
 
