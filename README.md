@@ -6,8 +6,8 @@ Repository for the Hackerrank Challenges practice.
 ## Acquired Badges
 |   |   |   |   |
 |---|---|---|---|
-| <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_10-days-of-javascript.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_problem-solving_bronze-2.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_java_silver-3.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_sql_silver-3.png"> |
-| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> *Solved 15/02/2023* |  [**Problem Solving - Silver II**](https://www.hackerrank.com/domains/algorithms) <br> *Solved ??/??/????* | [**Java - Silver III**](https://www.hackerrank.com/domains/java) <br> *Solved ??/??/????* | [**SQL - Silver III**](https://www.hackerrank.com/domains/sql)  <br> *Acquired 09/03/2023* |
+| <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_10-days-of-javascript.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_problem-solving_bronze-2.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_java_silver-3.png"> | <img src="https://raw.githubusercontent.com/Voltrifrodec/HackerRank/master/assets/badge_sql_silver-4.png"> |
+| [**10 Days of JavaScript**](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript) <br> *Solved 15/02/2023* |  [**Problem Solving - Silver II**](https://www.hackerrank.com/domains/algorithms) <br> *Solved ??/??/????* | [**Java - Silver III**](https://www.hackerrank.com/domains/java) <br> *Solved ??/??/????* | [**SQL - Silver IV**](https://www.hackerrank.com/domains/sql)  <br> *Acquired 14/03/2023* |
 
 
 ## Solved Challenges in Python
